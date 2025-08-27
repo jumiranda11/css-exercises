@@ -1,0 +1,19 @@
+.normal_class {
+  background-color: rgb(219, 174, 174);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cooler_class {
+  font-size: 24px;
+}
+
+#blue_id {
+  color: blue;
+  font-size: 36px;
+}
+
+#green_id {
+  background-color: rgb(80, 237, 80);
+  font-size: 24px;
+  font-weight: bold;
+}
